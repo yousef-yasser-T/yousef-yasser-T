@@ -50,19 +50,21 @@ Core Focus Areas:
 
 ## 🛠️ Technical Skills
 
+### Google Drive
+[![Google Drive](https://img.shields.io/badge/Google Drive-blue?style=flat-square)](https://drive.google.com/drive/folders/19utPWJBGiyJl2CbNbgh5N_MkyRR9rxrK)
+
 ### Hardware Description Languages
-![VHDL](https://img.shields.io/badge/VHDL-blue?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-blueviolet?style=flat-square)
+[![VHDL&Verilog](https://img.shields.io/badge/VHDL&Verilog-blue?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/Q78XIN7P0OMZ)
 
 ### Engineering Domains
-![FPGA](https://img.shields.io/badge/FPGA_Design-orange?style=flat-square)
+[![FPGA](https://img.shields.io/badge/FPGA_Design-orange?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/Q78XIN7P0OMZ)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-green?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-red?style=flat-square)
+[![Robotics](https://img.shields.io/badge/Robotics-red?style=flat-square)](https://drive.google.com/drive/folders/1pt7q0hCdrVlYbmKRat_HAJsfZ0qb8cEJ)
 ![IoT](https://img.shields.io/badge/IoT-teal?style=flat-square)
 ![Digital Logic](https://img.shields.io/badge/Digital_Logic-yellow?style=flat-square)
 
 ### Hardware & Tools
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://drive.google.com/drive/folders/1pt7q0hCdrVlYbmKRat_HAJsfZ0qb8cEJ)
 ![PCB Debug](https://img.shields.io/badge/PCB_Debugging-grey?style=flat-square)
 ![Circuit Analysis](https://img.shields.io/badge/Circuit_Analysis-lightblue?style=flat-square)
 
