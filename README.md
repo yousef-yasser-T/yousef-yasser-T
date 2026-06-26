@@ -60,7 +60,7 @@ Core Focus Areas:
 [![FPGA](https://img.shields.io/badge/FPGA_Design-orange?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/Q78XIN7P0OMZ)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-green?style=flat-square)
 [![Robotics](https://img.shields.io/badge/Robotics-red?style=flat-square)](https://drive.google.com/drive/folders/1pt7q0hCdrVlYbmKRat_HAJsfZ0qb8cEJ)
-![IoT](https://img.shields.io/badge/IoT-teal?style=flat-square)
+[![IoT](https://img.shields.io/badge/IoT-teal?style=flat-square)](https://drive.google.com/drive/folders/1k6eXdb91kyYp4A2Q64MPxBjM_vFOogPE)
 ![Digital Logic](https://img.shields.io/badge/Digital_Logic-yellow?style=flat-square)
 
 ### Hardware & Tools
@@ -70,14 +70,14 @@ Core Focus Areas:
 
 ### Software & Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yousef-yasser-T)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔷 Digital System Design & FPGA Implementation
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=flat-square&logo=github&logoColor=white)](<!-- أضف الرابط هنا -->)
+![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 Designed and modeled a wide range of **combinational and sequential digital circuits** using VHDL and Verilog HDL. Developed robust testbenches to verify functional correctness and timing behavior through behavioral simulation, and explored RTL synthesis workflows and hardware mapping on real FPGA architectures.
 
@@ -86,7 +86,7 @@ Designed and modeled a wide range of **combinational and sequential digital circ
 ---
 
 ### 🤖 Advanced Hardware & Robotics Systems
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=flat-square&logo=github&logoColor=white)](<!-- أضف الرابط هنا -->)
+![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 Built and integrated **custom embedded systems** combining microcontrollers, actuators, and sensor modules into fully functional robotics platforms. Developed real-time firmware for sensor processing, motor control, and communication protocols. Also handled comprehensive hardware troubleshooting including PCB debugging, power management, and circuit optimization.
 
