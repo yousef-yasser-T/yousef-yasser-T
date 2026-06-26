@@ -33,6 +33,7 @@ Core Focus Areas:
 - Embedded Systems & Real-Time Firmware
 - Circuit Analysis & PCB Design
 - IoT Systems & Communication Protocols
+- Hardware & Robotics
 
 ---
 
@@ -61,7 +62,7 @@ Core Focus Areas:
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-green?style=flat-square)
 [![Robotics](https://img.shields.io/badge/Robotics-red?style=flat-square)](https://drive.google.com/drive/folders/1pt7q0hCdrVlYbmKRat_HAJsfZ0qb8cEJ)
 [![IoT](https://img.shields.io/badge/IoT-teal?style=flat-square)](https://drive.google.com/drive/folders/1k6eXdb91kyYp4A2Q64MPxBjM_vFOogPE)
-![Digital Logic](https://img.shields.io/badge/Digital_Logic-yellow?style=flat-square)
+[![Digital Logic](https://img.shields.io/badge/Digital_Logic-yellow?style=flat-square)](https://drive.google.com/drive/folders/1A_bHCokAAmB9GGIZ6pWxUMHWn7A7KXfZ?usp=drive_link)
 
 ### Hardware & Tools
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://drive.google.com/drive/folders/1pt7q0hCdrVlYbmKRat_HAJsfZ0qb8cEJ)
