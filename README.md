@@ -51,7 +51,7 @@ Core Focus Areas:
 ## 🛠️ Technical Skills
 
 ### Google Drive
-[![Google Drive](https://img.shields.io/badge/Google Drive-blue?style=flat-square)](https://drive.google.com/drive/folders/19utPWJBGiyJl2CbNbgh5N_MkyRR9rxrK)
+[![Google_Drive](https://img.shields.io/badge/Google_Drive-blue?style=flat-square)](https://drive.google.com/drive/folders/19utPWJBGiyJl2CbNbgh5N_MkyRR9rxrK)
 
 ### Hardware Description Languages
 [![VHDL&Verilog](https://img.shields.io/badge/VHDL&Verilog-blue?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/Q78XIN7P0OMZ)
